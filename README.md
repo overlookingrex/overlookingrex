@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @overlookingrex
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data structure and csapp
-- 💞️ I’m looking to collaborate on study
+- 👋 Hi, I’m @overlookingrex from bupt.
+- 👀 I’m a beginner in coding, so I'm ready to learn on Github.
+- 🌱 I’m currently learning data structure and basic front-end skill.
 - 📫 email:zhang_xf@bupt.edu.cn
 
 <!---
